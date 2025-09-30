@@ -1,0 +1,8 @@
+for creating new projects
+npm create vite@latest
+
+aval check ka che kam folder k ye
+cd projectName
+
+to start project
+npm run dev 
